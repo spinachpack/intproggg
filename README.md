@@ -8,7 +8,7 @@
 - [x] Edit booking page and its functionality
 - [ ] Functionality para maka search og restaurants
 - [ ] Database implementation
-- [ ] Edit navbar to point the correct pages (pls double check)
+- [x] Edit navbar to point the correct pages (pls double check)
 - [ ] Add more if naa pay nalimtan
 - [ ] Edit some parts sa ui para consistency
 
